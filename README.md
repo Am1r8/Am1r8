@@ -28,9 +28,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/am1r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="am1r" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coachalpha&show_icons=true&locale=en&layout=compact" alt="coachalpha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coachalpha&show_icons=true&locale=en&layout=compact" alt="coachalpha" /></p>
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coachalpha&show_icons=true&locale=en" alt="coachalpha" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=coachalpha&show_icons=true&locale=en" alt="coachalpha" /></p>
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coachalpha&" alt="coachalpha" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=coachalpha&" alt="coachalpha" /></p>
 <br><br>
