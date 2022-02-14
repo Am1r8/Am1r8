@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">A tech lover who loves to programm 24/7 from Canada.</h3>
+<h3 align="center">A tech lover who loves to program 24/7 from Canada.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coachalpha&label=Profile%20views&color=0e75b6&style=flat" alt="coachalpha" /> </p>
 
