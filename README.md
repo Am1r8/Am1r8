@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">A tech lover who loves to program 24/7 from Canada.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=coachalpha&label=Profile%20views&color=0e75b6&style=flat" alt="coachalpha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Am1r8&label=Profile%20views&color=0e75b6&style=flat" alt="Am1r8" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coachalpha" alt="coachalpha" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Am1r8" alt="Am1r8" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/unknown_830" target="blank"><img src="https://img.shields.io/twitter/follow/unknown_830?logo=twitter&style=for-the-badge" alt="unknown_830" /></a> </p>
 
 - 🌱 I’m currently learning **Dart, JS and machine learning**
 
-- 👨‍💻 All of my projects are available on [https://github.com/CoachAlpha?tab=repositories](https://github.com/CoachAlpha?tab=repositories)
+- 👨‍💻 All of my projects are available on [https://github.com/Am1r8?tab=repositories](https://github.com/Am1r8?tab=repositories)
 
 - 💬 Ask me about **Python**
 
@@ -28,9 +28,9 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/am1r"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="am1r" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coachalpha&show_icons=true&locale=en&layout=compact" alt="coachalpha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Am1r8&show_icons=true&locale=en&layout=compact" alt="Am1r8" /></p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coachalpha&show_icons=true&locale=en" alt="coachalpha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Am1r8&show_icons=true&locale=en" alt="Am1r8" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coachalpha&" alt="coachalpha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Am1r8&" alt="Am1r8" /></p>
 <br><br>
