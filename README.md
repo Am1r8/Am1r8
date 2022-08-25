@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as teacher and I'm working on different startups and my own apps and websites.<br><br>🌱 I’m currently machine learning with Python, Solidity, and Rust.<br><br>📫 How to reach me amirsole2005@gmail.com<br><br>💖 Every project here is made by Amir Soleimanian 💖
+🔭 I’m currently working as teacher and on my free time I'm working on different startups and my own apps and websites.<br><br>🌱 I’m currently machine learning with Python, Solidity, and Rust.<br><br>📫 How to reach me amirsole2005@gmail.com<br><br>💖 Every project here is made by Amir Soleimanian 💖
 
 
 ## 🌐 Socials:
