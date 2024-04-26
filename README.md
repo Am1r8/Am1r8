@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working as Software Engineer at Glendon Athletic Club and on my free time I'm working on different startups and my own apps and websites.<br><br>🌱 I’m currently learning machine learning with Python, Solidity, and Rust.<br><br>📫 How to reach me amirsole2005@gmail.com<br><br>💖 Every project here is made by Amir Soleimanian 💖
+🔭 I’m currently employed as a Software Engineer at Glendon Athletic Club. In my free time, I’m actively involved in various startups, developing my own applications and websites.
+
+<br><br>🌱 I’m on a learning journey, diving into Machine Learning with Python, Solidity, and Rust.<br><br>📫 How to reach me amirsole2005@gmail.com<br><br>💖 Every project here is made by Amir Soleimanian 💖
 
 
 ## 🌐 Socials:
